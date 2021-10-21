@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsWithReturns", "FunctionsWithArrays\FunctionsWithReturns.csproj", "{8AF92AB5-A6CA-42F5-88DC-4EDF0303640D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicFight", "EpicFight\EpicFight.csproj", "{E68447C9-A3A2-4E71-A597-F9B37C9660F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF92AB5-A6CA-42F5-88DC-4EDF0303640D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF92AB5-A6CA-42F5-88DC-4EDF0303640D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF92AB5-A6CA-42F5-88DC-4EDF0303640D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF92AB5-A6CA-42F5-88DC-4EDF0303640D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68447C9-A3A2-4E71-A597-F9B37C9660F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68447C9-A3A2-4E71-A597-F9B37C9660F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68447C9-A3A2-4E71-A597-F9B37C9660F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68447C9-A3A2-4E71-A597-F9B37C9660F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E79988F-D8C0-4719-91CE-A25ECD0BE92D}
+	EndGlobalSection
+EndGlobal
